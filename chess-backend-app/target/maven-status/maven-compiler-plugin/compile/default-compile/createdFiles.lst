@@ -1,0 +1,11 @@
+org\example\controller\TournamentController.class
+org\example\repository\UserRepository.class
+org\example\Main.class
+org\example\controller\SpringFoxConfig.class
+org\example\dto\SignupRequest.class
+org\example\repository\TournamentRepository.class
+org\example\dto\LoginRequest.class
+org\example\entity\ChessTournament.class
+org\example\controller\UserController.class
+org\example\entity\User.class
+org\example\service\TournamentService.class

@@ -1,0 +1,11 @@
+E:\chess-backend-app\src\main\java\org\example\entity\User.java
+E:\chess-backend-app\src\main\java\org\example\controller\SpringFoxConfig.java
+E:\chess-backend-app\src\main\java\org\example\dto\LoginRequest.java
+E:\chess-backend-app\src\main\java\org\example\service\TournamentService.java
+E:\chess-backend-app\src\main\java\org\example\dto\SignupRequest.java
+E:\chess-backend-app\src\main\java\org\example\controller\UserController.java
+E:\chess-backend-app\src\main\java\org\example\entity\ChessTournament.java
+E:\chess-backend-app\src\main\java\org\example\controller\TournamentController.java
+E:\chess-backend-app\src\main\java\org\example\repository\TournamentRepository.java
+E:\chess-backend-app\src\main\java\org\example\repository\UserRepository.java
+E:\chess-backend-app\src\main\java\org\example\Main.java
